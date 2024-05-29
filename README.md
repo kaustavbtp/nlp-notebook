@@ -7,7 +7,7 @@ pip list
 # Check some specific package version which got installed
 pip show <package-name>
 
-# git init
+
 # Activate python Environment
 python -m venv env-nlp-chat
 .\env-nlp-chat\Scripts\activate
